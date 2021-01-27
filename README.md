@@ -5,7 +5,7 @@ The twilio verification API can be found at this link:https://www.twilio.com/doc
 
 To view the PHP code code for the Twilio API simply navigate to the top right menu and choose the PHP option.
 
-You will need to create a Twilio account and create API keys. Please do not upload your keys with the project. Do however include some explanation regarding how the get the project running and where to add our own API keys to test it. 
+You will need to create a Twilio account and create API keys. Please do not upload your keys with the project. Do however, include some explanation regarding how to get the project running and where to add our own API keys to test it. 
 
 Once completed please send a github or similar link to support@pcswaps.com.
 
