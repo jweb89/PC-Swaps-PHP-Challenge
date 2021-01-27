@@ -3,7 +3,7 @@ Build a simple PHP project that verifies a phone number using the Twilio API. Th
 
 The twilio verification API can be found at this link:https://www.twilio.com/docs/verify/api#base-url
 
-To view the php codde simply navigate to the top right menu and choose the PHP option.
+To view the PHP code code for the Twilio API simply navigate to the top right menu and choose the PHP option.
 
 You will need to create a Twilio account and create API keys. Please do not upload your keys with the project. Do however include some explanation regarding how the get the project running and where to add our own API keys to test it. 
 
